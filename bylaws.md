@@ -115,7 +115,7 @@ All chapter officers shall each be directly elected according to the procedures 
 
 ### Section 6.1. Composition
 
-The Leadership Committee shall consist of the ten elected officers of Austin DSA as defined in Article V above and three at-large Leadership Committee representatives directly elected by the membership at the same time as the officers. 
+The Leadership Committee shall consist of the thirteen elected officers of Austin DSA as defined in Article V. 
 
 ### Section 6.2. Function, Powers, and Duties
 
