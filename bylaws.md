@@ -239,11 +239,19 @@ Resolution #33 of the 2017 National DSA Membership Convention is incorporated fu
 4. Develop template forms both for reporting and responding to accusations of harassment in the form required by the Resolution; and
 5. Handle complaints in the manner prescribed by the Resolution.
 
-## Article 9. Elections Process
+## Article 9. Elections Processes
 
-### Section 9.1. Score Voting
+### Section 9.1. Score Voting for Internal Elections
 
 The membership shall use score voting for any election using a 0-2 scale. For each candidate, a voter may choose 0 to indicate disapproval, 1 to indicate neutral, or 2 to indicate approval of that candidate. The winner of an election conducted with score voting is the candidate with the highest score. A voter who casts an incomplete ballot (does not indicate a score for every candidate) will be assumed to have voted 0 for any unmarked candidates. When counting ballots which contain all votes not clearly indicating a 1 or 2 (e.g., a check or X), votes for a candidate shall be counted as the highest score on the scale.
+
+### Article 9.2 Electoral Candidate Endorsement Process
+
+A two-thirds supermajority of a general body meeting or special called meeting shall be required for endorsement, and for the resources of Austin DSA PAC to be mobilized on behalf of a candidate or campaign for public office. In single seat races, no more than one candidate shall receive endorsement. If more than one candidate in the same race receives over two-thirds plus one supermajority of the votes for endorsement, the candidate who receives the largest percentage of votes will get the endorsement. Abstentions are not to be counted against the percentage count of the candidate.
+
+### Article 9.3 Suspension and Revocation of Candidate Endorsement
+
+The endorsement of the chapter may be provisionally suspended at the discretion of the Leadership Committee upon receiving notice of campaign or candidate behavior in serious or repeated violation of our bylaws, Feminist Process, or expectations of candidate and campaign behavior established by our endorsement process. Upon suspension, the Leadership Committee shall immediately inform membership, as well as the candidate, explaining the reason for suspension. No candidate event shall be publicly promoted, nor any expenditure on our chapter’s campaign for the candidate be authorized by the Leadership Committee, pending a vote of the general body to revoke or keep the endorsement. A vote to revoke or keep the endorsement shall be agendized at a General Body Meeting within two weeks of Leadership Committee’s decision to suspend, or a special called meeting during that period shall be held to discuss and vote on revoking endorsement. A two-thirds supermajority shall be required to revoke endorsement and to demobilize Austin DSA PAC resources on behalf of the campaign. Abstentions are not to be counted against the percentage count of the candidate.
 
 ## Article 10. Amendments
 
