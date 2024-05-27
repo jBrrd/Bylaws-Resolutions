@@ -101,7 +101,7 @@ The Texas Chapter Coordinator shall be responsible for coordinating activities a
 
 ### Section 5.13. YDSA Chapter Coordinator
 
-The YDSA Chapter Coordinator shall be responsible for coordinating activities and campaigns of the Chapter with Young Democratic Socialists of America chapters in and near Central Texas, including without limitations: (a) supporting existing YDSA organizing committees and chapters in their organizing efforts; (b) facilitating tabling and other direct recruitment at university, community college, and high school campuses; and (c) fostering leadership and orderly transitions of leadership in local YDSA groups.
+The YDSA Chapter Coordinator shall be a Co-chair of the YDSA Committee and shall be responsible for coordinating activities and campaigns of the Chapter with Young Democratic Socialists of America chapters in and near Central Texas, including without limitations: (a) supporting existing YDSA organizing committees and chapters in their organizing efforts; (b) facilitating tabling and other direct recruitment at university, community college, and high school campuses; and (c) fostering leadership and orderly transitions of leadership in local YDSA groups.
 
 ### Section 5.14
 
